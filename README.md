@@ -1,5 +1,10 @@
 # cp2024
 
 This is README
-<ul>item1</ul>
-<ul>item2</ul>
+<li>item1</li>
+<li>item2</li>
+
+## Part 2
+1. monday
+1. tuesday
+1. wednesday
