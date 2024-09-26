@@ -2,7 +2,7 @@
 ## Part 1
 This is README
 <li>item1</li>
-<li>item2</li>
+<li>item3</li>
 
 ## Part 2
 1. sunday
